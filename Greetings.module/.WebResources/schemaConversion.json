@@ -1,0 +1,5 @@
+{"records": [{
+    "jsonSchemaLocation": "/Greetings.module/Service Descriptors/greetings.module.Process-greet.json",
+    "conversionType": "linked",
+    "xsdSchemaTargetNamespace": "http://www.example.com/namespaces/tns/1520763390203"
+}]}
